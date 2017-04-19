@@ -1,2 +1,2 @@
 all:
-	g++ -fopenmp Problema1.c -o Problema1
+	g++ -fopenmp matrices.c -o prog
